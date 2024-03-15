@@ -1,2 +1,2 @@
 # pedq
-A model for reasoning aboyt of pedagogical quality.
+A model for reasoning about of pedagogical quality in relation to learning outcome.
